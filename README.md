@@ -8,7 +8,7 @@
 [Homework 06- Двоично дърво за търсене](https://github.com/vkraynova/Data-Sructures-and-Algorithms/tree/main/Homework%2006)  
 [Homework 07- Балансирани дървета. AVL](https://github.com/vkraynova/Data-Sructures-and-Algorithms/tree/main/Homework%2007)  
 [Homework 08- Heap ](https://github.com/vkraynova/Data-Sructures-and-Algorithms/tree/main/Homework%2008)  
-[Homework 09- Хештаблицаи](https://github.com/vkraynova/Data-Sructures-and-Algorithms/tree/main/Homework%2009)  
+[Homework 09- Хештаблици](https://github.com/vkraynova/Data-Sructures-and-Algorithms/tree/main/Homework%2009)  
 [Homework 10- Граф - обхождане bfs, dfs](https://github.com/vkraynova/Data-Sructures-and-Algorithms/tree/main/Homework%2010)  
 [Homework 11- Граф - най-къс път](https://github.com/vkraynova/Data-Sructures-and-Algorithms/tree/main/Homework%2011)  
 [Homework 12- Минимално покриващо дърво](https://github.com/vkraynova/Data-Sructures-and-Algorithms/tree/main/Homework%2012) 
